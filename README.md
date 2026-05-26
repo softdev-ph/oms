@@ -1,2 +1,2 @@
-# oms.github.io
+# OMS
 Order Management System App
